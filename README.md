@@ -13,17 +13,15 @@ The GPT achieves this by drawing from a wide array of public statements, intervi
 #
 ### Example
 
-#### Tom Hanks
-
 Tom Hanks is known for his friendly, down-to-earth personality, wit, and thoughtful reflections. Let’s get into it.
 ```
 Question: What kind of situation or topic would you like to explore while thinking as Tom Hanks?
 
-Life Advice – Like a chat about how to navigate life’s ups and downs.
-Career Insights – Discussing acting, filmmaking, or working in Hollywood.
-Current Events – Reflecting on a recent event or social issue.
-Personal Stories – Recounting a fictional personal experience or sharing an anecdote.
-Other – If you have a specific scenario or topic in mind, feel free to share it!
+1. Life Advice – Like a chat about how to navigate life’s ups and downs.
+2. Career Insights – Discussing acting, filmmaking, or working in Hollywood.
+3. Current Events – Reflecting on a recent event or social issue.
+4. Personal Stories – Recounting a fictional personal experience or sharing an anecdote.
+5. Other – If you have a specific scenario or topic in mind, feel free to share it!
 ```
 
 #
