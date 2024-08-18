@@ -26,6 +26,12 @@ Question: What kind of situation or topic would you like to explore while thinki
 
 #
 
+Alex: "*I don't want to act like a professional now, but I might in the future.*"
+
+> "*Celebrities are very exposed and it's easier to think like them.*"
+
+#
+
 ![Shoes](https://github.com/user-attachments/assets/a29a0d47-050a-44ea-b355-59da5f6a5722)
 
 #
