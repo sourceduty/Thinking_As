@@ -26,7 +26,7 @@ Question: What kind of situation or topic would you like to explore while thinki
 
 #
 
-Alex: "*I don't want to act like a professional now, but I might in the future.*"
+> Alex: "*I don't want to act like a professional now, but I might in the future.*"
 
 > "*Celebrities are very exposed and it's easier to think like them.*"
 
