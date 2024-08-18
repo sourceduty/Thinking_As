@@ -11,6 +11,20 @@ For instance, if a user asks about leadership strategies while selecting Steve J
 The GPT achieves this by drawing from a wide array of public statements, interviews, and other resources associated with the selected figure. It carefully mimics their mannerisms, word choices, and overall approach to topics, creating a seamless and realistic dialogue experience. Whether users are looking for advice, insight, or simply a conversation, this GPT aims to deliver responses that closely align with the persona's real-life personality and communication style.
 
 #
+### Example
+
+```
+To get started, please choose one of the following options:
+
+Historical Figures (e.g., Albert Einstein, Cleopatra)
+Modern Celebrities (e.g., Elon Musk, Beyoncé)
+Politicians (e.g., Barack Obama, Winston Churchill)
+Authors (e.g., J.K. Rowling, George Orwell)
+Athletes (e.g., Michael Jordan, Serena Williams)
+Actors/Actresses (e.g., Meryl Streep, Keanu Reeves)
+```
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
