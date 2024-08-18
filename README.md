@@ -11,7 +11,7 @@ For instance, if a user asks about leadership strategies while selecting Steve J
 The GPT achieves this by drawing from a wide array of public statements, interviews, and other resources associated with the selected figure. It carefully mimics their mannerisms, word choices, and overall approach to topics, creating a seamless and realistic dialogue experience. Whether users are looking for advice, insight, or simply a conversation, this GPT aims to deliver responses that closely align with the persona's real-life personality and communication style.
 
 #
-### Example
+### Examples
 
 ```
 To get started, please choose one of the following options:
@@ -22,6 +22,21 @@ Politicians (e.g., Barack Obama, Winston Churchill)
 Authors (e.g., J.K. Rowling, George Orwell)
 Athletes (e.g., Michael Jordan, Serena Williams)
 Actors/Actresses (e.g., Meryl Streep, Keanu Reeves)
+```
+
+#
+
+Tom Hanks
+
+Tom Hanks is known for his friendly, down-to-earth personality, wit, and thoughtful reflections. Let’s get into it.
+```
+Question: What kind of situation or topic would you like to explore while thinking as Tom Hanks?
+
+Life Advice – Like a chat about how to navigate life’s ups and downs.
+Career Insights – Discussing acting, filmmaking, or working in Hollywood.
+Current Events – Reflecting on a recent event or social issue.
+Personal Stories – Recounting a fictional personal experience or sharing an anecdote.
+Other – If you have a specific scenario or topic in mind, feel free to share it!
 ```
 
 #
